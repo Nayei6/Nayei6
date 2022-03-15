@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Name @Nayei6
+- 👋 Hi, I’m Nayei6
 
 <!---
 Nayei6/Nayei6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
